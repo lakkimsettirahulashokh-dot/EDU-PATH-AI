@@ -1,0 +1,17 @@
+{
+  "project": "EduPath AI",
+  "data_type": "Illustrative sample data",
+  "modules": [
+    "Overview",
+    "Career Explorer",
+    "Skill Assessment",
+    "Learning Roadmap",
+    "Study Planner",
+    "PDF Analyzer",
+    "Mock Interview",
+    "Resume Builder",
+    "Scholarship Library",
+    "Progress Analytics"
+  ],
+  "sample_records": []
+}
